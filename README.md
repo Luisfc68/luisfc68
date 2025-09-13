@@ -2,15 +2,12 @@
 
 ---
 
-<blockquote style="text-align:center; font-style:italic;">
-  <p style="font-size:1.25em; font-style:italic; padding-top:.5rem">“Keep an open mind but not so open that your brain falls out.</p>
-  <footer style="margin-top:.5rem; text-align:right; padding-right:2rem; font-weight:600;">
-    — Richard Feynman"
-  </footer>
-  <footer style="margin-top:.25rem; text-align:right; font-weight:600;">
-    — Luis Chavez
-  </footer>
-</blockquote>
+<div align="center">
+  <blockquote>
+    <p><em>“Keep an open mind but not so open that your brain falls out.“</em></p>
+    <footer align="right">— Richard Feynman</footer>
+  </blockquote>
+</div>
 
 <h3 align="center">About</h3>
 <p align="center">Software Engineer. Tequeños prophet. I enjoy whatever seems interesting. Currently doing blockchain.</p>
